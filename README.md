@@ -14,13 +14,11 @@ When I’m not coding, I enjoy **PC gaming** and dabbling in **illustrator desig
 
 ### Front-End  
 - **Angular**: Latest versions, Signals, RxJS, and advanced component architecture.  
-- State Management: Exploring **ngrx SignalStore**.  
 - **TypeScript**: Writing clean, strongly-typed code.  
 
 ### Back-End  
-- **ASP.NET Core**: Building secure, modular APIs.  
-- Authentication: Developing reusable authentication services for multiple projects.  
-- Database: Experienced with **MySQL** for robust data management.
+- **ASP.NET Core**: Building secure, modular APIs.
+- **Laravel** :  Building secure, modular APIs and MVC Web Apps.
 
 ---
 
