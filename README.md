@@ -32,6 +32,7 @@ When I’m not coding, I enjoy **PC gaming** and dabbling in **illustrator desig
 ## 📫 Connect with Me
 - GitHub: [Adam Khairi](https://github.com/adamkhairi)  
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adam-khairi)  
-- Email: khairiadam1@gmail.com  
+- Email: khairiadam1@gmail.com
+- Resume: [Resume](https://adamkhairi.github.io/Resume/)
 
 Feel free to check out my **Public** repositories, and let’s collaborate on exciting projects!
