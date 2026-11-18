@@ -46,7 +46,7 @@ I care about clear architecture, thoughtful user experiences, and shipping softw
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Dental Practice Platform](https://dental-practice-kappa.vercel.app/) · [Code](https://github.com/adamkhairi/dental-practice-platform) | Multi-tenant clinic management for patients, appointments, billing, and analytics. | React · Node.js · PostgreSQL |
-| [Moroccan Club Travel](https://moroccanclubtravel.com) · [Code](https://github.com/adamkhairi/mct-laravel) | Multilingual tourism platform with tour management and an admin dashboard. | Laravel · React · MySQL |
+| [Moroccan Club Travel](https://moroccanclubtravel.com) | Multilingual tourism platform with tour management and an admin dashboard. | Laravel · React · MySQL |
 | [E-Learning Platform](https://elearn-app.vercel.app) · [Code](https://github.com/adamkhairi/elearn-app) | Online learning with course progress, coding exercises, and an AI chatbot. | React · Node.js · PostgreSQL |
 | [Store App](https://store-app-smoky-one.vercel.app) · [Code](https://github.com/adamkhairi/store-app) | Full-stack storefront with checkout, payments, and an admin dashboard. | Next.js · TypeScript · Stripe |
 | [OptiFlow Clinic Management](https://optiflow-app-seven.vercel.app/) · [Code](https://github.com/adamkhairi/optiflow-app) | Clinic workflows for records, appointments, prescriptions, inventory, and billing. | React · TypeScript · PostgreSQL |
